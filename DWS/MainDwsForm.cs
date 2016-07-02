@@ -802,7 +802,7 @@ namespace DWS_Lite
                     "ca.telemetry.microsoft.com",
                     "i1.services.social.microsoft.com.nsatc.net",
                     "msnbot-207-46-194-33.search.msn.com",
-                    "settings.data.microsof.com",
+                    "settings.data.microsoft.com",
                     "telecommand.telemetry.microsoft.com.nsat­c.net"
                 };
                 var hostslocation = _system32Location + @"drivers\etc\hosts";
